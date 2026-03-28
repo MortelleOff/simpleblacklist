@@ -9,6 +9,7 @@
 * **✅ Smart Whitelist (Known Mods)**: The server recognizes your approved modpack. Any unrecognized mod is flagged as "Suspect" for admins to review, without automatically banning the player.
 * **🖱️ Interactive In-Game Moderation**: Run a simple command to view a player's mod list. Suspect mods appear in red and are **clickable**—click them in the chat to instantly add them to the server's whitelist!
 * **🔄 Live Configuration**: Reload your settings, change kick messages, and update your whitelists/blacklists on the fly. No server restarts required!
+* **🌐 Language Configuration**: English and French are fully supported and configurable !
 * **📥 Client Auto-Updater**: The client automatically checks for updates via GitHub. If a new version is found, it downloads it and prompts the player to restart their game.
 
 ## 🛠️ Admin Commands (Requires OP / Permission Level 2)
